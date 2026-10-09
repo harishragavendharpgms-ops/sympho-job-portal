@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Intelligent Career & Talent Platform",
+  "description": "Next-generation AI-powered career and recruitment ecosystem connecting job seekers, students, recruiters, and placement officers with explainable AI matching, resume intelligence, and career copiloting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
